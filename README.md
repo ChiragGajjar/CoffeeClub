@@ -1,6 +1,6 @@
 # coffee_club
 
-A new Flutter project.
+A new Flutter Coffee club project.
 
 ## Getting Started
 
